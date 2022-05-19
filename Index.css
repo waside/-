@@ -1,0 +1,14 @@
+/* class選擇器/標籤選擇器 */
+
+
+.list{
+    display:flex;
+    width:1000px;
+}
+.product{
+    flex:none;
+    width:400px;
+    background-color: bisque;
+    margin:auto;
+    height: 150px;
+}
